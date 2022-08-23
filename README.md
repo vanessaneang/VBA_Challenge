@@ -8,7 +8,7 @@ The purpose of this project was to see if we could make our code run faster if w
 
 The original code only had one array defined for the tickers and one conditional for loop. It also formatted the table in a separate macro, so the time reflected for the 2017 and 2018 analyses does not reflect the entire time. 
 
-![Original Code 2017 Run Time] (https://github.com/vanessaneang/VBA_Challenge/commit/ce85e2cdb911a034a313dd9c301f039c34796d70#diff-f4d7f628947dc4dbbdd8b1af77b0f26030f1b3a7c16c52525dc3d1beb7f81f98)
+![Original Code 2017 Run Time] (https://github.com/vanessaneang/VBA_Challenge/blob/main/Resources/VBA_Challenge_2017_notrefactored.png)
 
 The analysis is well described with screenshots and code (4 pt).
 

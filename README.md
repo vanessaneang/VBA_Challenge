@@ -4,7 +4,7 @@
 
 The purpose of this project was to see if we could make our code run faster if we **_refactored_**, or edited, the code to loop through our stock analysis. In the end the result analyzed the stocks total daily volume and rate of return based on the stock tickers. 
 
-## Results
+## Steps and Code
 
 ### Create tickerIndex and Three Output Arrays
 
@@ -70,7 +70,7 @@ The purpose of this project was to see if we could make our code run faster if w
     Next i
 ```    
     
-
+## Results
 
 The original code only had one array defined for the tickers and one conditional for loop. It also formatted the table in a separate macro, so the time reflected for the 2017 and 2018 analyses does not reflect the entire time. 
 
@@ -86,9 +86,9 @@ Once the coded was refactored to include a TickerIndex it would organize that th
 
 There is a clear difference between the orginal code and the refactored code, by using the arrays to loop the multiple variables it runs about *_5 to 6 times faster_*.
 
+## Summary
 
+Refactoring code can lead to more efficient and concise code that is easier for both other coders to understand and for the computer to process. However, the disadvante to refactoring code would be the amount of time it takes to edit and increase efficiency for the code. It can also tamper with other parts of the code that works initially, complicating other parts of the code further. 
 
-Summary
-There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
-There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
-Submission
+In the case of refactoring the code for VBA script it can lead to increase efficiency; the run time for the refactored code was 5-6 times faster than the orginal code. The process to edit and change the code did take some time, this would be the main disadvantage. In addition with VBA Script the code was not simipflied rather it was longer since more arrays and varaibles needed to be defined. Overall refactoring code can be advantageous in streamlining code, but the caveats may be more time spent trying to make a process slightly more effecient with more lines of code. 
+
